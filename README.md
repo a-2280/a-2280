@@ -7,6 +7,7 @@ Front-End Developer
 IT professional with 2+ years of helpdesk experience and strong expertise in HTML, CSS, JavaScript and React. Proficient in Python with CompTIA A+, Network+, and Security+ certifications. Quick learner who excels at problem-solving and creating effective technical solutions.
 
 * 🌍  I'm based in the USA
+* 🖥️  See my portfolio at [Link](http://khalifw.com)
 * ✉️  You can contact me at [khaliff.williamss@gmail.com](mailto:khaliff.williamss@gmail.com)
 * 🤝  I'm open to collaborating on any project!
 
