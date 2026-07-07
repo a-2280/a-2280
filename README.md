@@ -1,6 +1,4 @@
-👋
-
-### Calvin
+### Calvin 👋
 
 **Contact**
 
